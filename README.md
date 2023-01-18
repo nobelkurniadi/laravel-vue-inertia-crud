@@ -23,6 +23,5 @@ This is a basic CRUD (Create, Read, Update and Delete) SPA (Single Page Aplicati
 -   add to kernel (Web) \App\Http\Middleware\HandleInertiaRequests::class,
 -   npm install
 -   npm install @inertiajs/inertia @inertiajs/inertia-vue3
--   npm install @inertiajs/inertia @inertiajs/inertia-vue3
 -   npm run dev
 -   create Model, Migration, Controller, Layouts, etc
